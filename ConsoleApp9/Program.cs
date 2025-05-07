@@ -54,6 +54,7 @@ namespace ConsoleApp9
             }
             Console.WriteLine("suma: "+ suma);
 
+
         }
     }
 }
